@@ -27,6 +27,7 @@ $ nodemon server
 #### Problem 5
 Open your terminal and type
 ```
+$ cd ../..
 $ cd Problem 5/weather
 $ npm install 
 $ npm start
